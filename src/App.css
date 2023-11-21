@@ -1,0 +1,48 @@
+.App {
+  text-align: center;
+}
+
+.card{
+  background-color: #363062;
+}
+
+.card-body{
+  display: flex;
+  flex-direction: column;
+  background-color: #818FB4;
+  width: 50vi;
+  height: 50vh;
+  margin: auto auto;
+  border-style:double;
+  border-width: 10px;
+  border-radius: 20px;
+  border-color: #435585;
+  box-shadow: 2px 2px 5px black;
+}
+
+.sub-block{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+body{
+  text-align: center;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  background-color: #363062;
+  color: #F5E8C7;
+}
+
+.search-button{
+  width: 20vi;
+  height: 7vh;
+  margin-bottom: 40px;
+  border-radius: 10px;
+  border-color: #F5E8C7;
+  border-style: solid;
+  border-width: 5px;
+  background-color: #435585;
+  color: #F5E8C7;
+}
