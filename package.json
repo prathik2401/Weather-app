@@ -1,6 +1,7 @@
 {
   "homepage": "https://prathik2401.github.io/Weather-app/",
   "name": "weather-app",
+  "author": "Prathik",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
